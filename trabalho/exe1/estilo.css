@@ -1,0 +1,33 @@
+
+.fundo {
+    background-image: url("https://kratomoflife.com/wp-content/uploads/2020/02/Tree-of-La-Vida-scaled-2048x1399.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+  }
+  
+
+  .container.fundo {
+    background-image: none;
+    color: white;
+  }
+  
+ 
+  .custom-bg-blue {
+    background-color: blue !important;
+    color: white;
+  }
+  
+
+  .custom-bg-pink {
+    background-color: pink !important;
+    color: white;
+  }
+  
+
+  .custom-bg-red {
+    background-color: red !important;
+    color: white;
+  }
+  
